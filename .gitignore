@@ -4,9 +4,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 /src/main/java/com/shopwave/shopwave_starter/controller
-/src/main/java/com/shopwave/shopwave_starter/dto
-/src/main/java/com/shopwave/shopwave_starter/exception
-/src/main/java/com/shopwave/shopwave_starter/mapper
 ### STS ###
 .apt_generated
 .classpath
