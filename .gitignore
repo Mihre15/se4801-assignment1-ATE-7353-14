@@ -7,8 +7,6 @@ target/
 /src/main/java/com/shopwave/shopwave_starter/dto
 /src/main/java/com/shopwave/shopwave_starter/exception
 /src/main/java/com/shopwave/shopwave_starter/mapper
-/src/main/java/com/shopwave/shopwave_starter/repository
-/src/main/java/com/shopwave/shopwave_starter/service
 ### STS ###
 .apt_generated
 .classpath
