@@ -105,5 +105,6 @@ class ProductServiceTest {
         verify(categoryRepository).findById(10L);
         verify(productRepository, never()).save(any());
     }
+    //both passed
 
 }

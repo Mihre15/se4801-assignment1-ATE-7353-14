@@ -30,7 +30,7 @@ class ProductControllerTest {
     @Autowired
     private ObjectMapper objectMapper;
 
-
+// works
     @MockBean
     private ProductService productService;
 
