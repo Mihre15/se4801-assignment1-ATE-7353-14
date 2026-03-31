@@ -33,5 +33,3 @@ build/
 
 ### VS Code ###
 .vscode/
-/src/test/java/com/shopwave/shopwave_starter/controller/
-/src/test/java/com/shopwave/shopwave_starter/service/
