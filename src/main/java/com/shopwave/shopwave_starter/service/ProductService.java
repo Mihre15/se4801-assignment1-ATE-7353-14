@@ -12,7 +12,7 @@ public interface ProductService {
 
     ProductDTO createProduct(CreateProductRequest request);
 
-    Page<ProductDTO> getAllProducts(Pageable pageable);
+    Page<ProductDTO> getAllProducts(int page, int size);
 
     ProductDTO getProductById(Long id);
 
