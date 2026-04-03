@@ -2,14 +2,21 @@ NAME: MIHRETAB ESAYAS
 ID: ATE/7353/14
 
 ## Build
+```bash
 mvn clean package
+```
 ## How to run
-Start the application with:** mvn spring-boot:run ** 
-
+Start the application with: 
+```bash
+mvn spring-boot:run 
+```
 ## Run Tests
 Make sure Maven and Java are installed and available in your terminal.
 
-Run all tests with: **mvn test**
+Run all tests with: 
+``` bash
+mvn test
+```
 
 To run test on ProductControllerTest, ProductRepositoryTest and ProductServiceTest
 click the run button or if you using intelleji Ctr+shift+F10
